@@ -1,0 +1,11 @@
+[
+  { "nombre": "Multímetro digital", "precio": 15.50, "imagen": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=500&q=80" },
+  { "nombre": "Sensor LM35", "precio": 2.20, "imagen": "https://images.unsplash.com/photo-1615634260167-cb4f63e49bfb?auto=format&fit=crop&w=500&q=80" },
+  { "nombre": "Resistencias 220Ω (100 und)", "precio": 1.00, "imagen": "https://images.unsplash.com/photo-1581092924981-3e89c3f0b04b?auto=format&fit=crop&w=500&q=80" },
+  { "nombre": "Protoboard 830 puntos", "precio": 5.50, "imagen": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=500&q=80" },
+  { "nombre": "Arduino Uno R3", "precio": 12.00, "imagen": "https://images.unsplash.com/photo-1581093588401-22d1b1e40d21?auto=format&fit=crop&w=500&q=80" },
+  { "nombre": "Cables Dupont (macho-hembra)", "precio": 3.50, "imagen": "https://images.unsplash.com/photo-1555617989-3c1c4a9d73d2?auto=format&fit=crop&w=500&q=80" },
+  { "nombre": "Diodo 1N4007 (100 und)", "precio": 1.80, "imagen": "https://images.unsplash.com/photo-1617634667039-0cdb4d1a4d89?auto=format&fit=crop&w=500&q=80" },
+  { "nombre": "Transistor BC547 (50 und)", "precio": 1.20, "imagen": "https://images.unsplash.com/photo-1629655677982-9d569b4a4c62?auto=format&fit=crop&w=500&q=80" },
+  { "nombre": "Condensador 100uF (50 und)", "precio": 2.50, "imagen": "https://images.unsplash.com/photo-1581092335878-2a6a93902c62?auto=format&fit=crop&w=500&q=80" }
+]
