@@ -1,11 +1,37 @@
 [
-  { "nombre": "Multímetro digital", "precio": 15.50, "imagen": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=500&q=80" },
-  { "nombre": "Sensor LM35", "precio": 2.20, "imagen": "https://images.unsplash.com/photo-1615634260167-cb4f63e49bfb?auto=format&fit=crop&w=500&q=80" },
-  { "nombre": "Resistencias 220Ω (100 und)", "precio": 1.00, "imagen": "https://images.unsplash.com/photo-1581092924981-3e89c3f0b04b?auto=format&fit=crop&w=500&q=80" },
-  { "nombre": "Protoboard 830 puntos", "precio": 5.50, "imagen": "https://images.unsplash.com/photo-1581090700227-1e37b190418e?auto=format&fit=crop&w=500&q=80" },
-  { "nombre": "Arduino Uno R3", "precio": 12.00, "imagen": "https://images.unsplash.com/photo-1581093588401-22d1b1e40d21?auto=format&fit=crop&w=500&q=80" },
-  { "nombre": "Cables Dupont (macho-hembra)", "precio": 3.50, "imagen": "https://images.unsplash.com/photo-1555617989-3c1c4a9d73d2?auto=format&fit=crop&w=500&q=80" },
-  { "nombre": "Diodo 1N4007 (100 und)", "precio": 1.80, "imagen": "https://images.unsplash.com/photo-1617634667039-0cdb4d1a4d89?auto=format&fit=crop&w=500&q=80" },
-  { "nombre": "Transistor BC557 (50 und)", "precio": 1.20, "imagen": "https://images.unsplash.com/photo-1629655677982-9d569b4a4c62?auto=format&fit=crop&w=500&q=80" },
-  { "nombre": "Condensador 11100uF (50 und)", "precio": 2.50, "imagen": "https://images.unsplash.com/photo-1581092335878-2a6a93902c62?auto=format&fit=crop&w=500&q=80" }
+  {
+    "nombre": "Multímetro digital",
+    "precio": 15.5,
+    "imagen": "https://images.unsplash.com/photo-1603791440384-56cd371ee9a7?auto=format&fit=crop&w=500&q=80",
+    "codigo": "multi12",
+    "impuestos": 15
+  },
+  {
+    "nombre": "Sensor LM35",
+    "precio": 2.2,
+    "imagen": "https://images.unsplash.com/photo-1615634260167-cb4f63e49bfb?auto=format&fit=crop&w=500&q=80",
+    "codigo": "lm35",
+    "impuestos": 15
+  },
+  {
+    "nombre": "Resistencias 220Ω (100 und)",
+    "precio": 1,
+    "imagen": "https://images.unsplash.com/photo-1581092924981-3e89c3f0b04b?auto=format&fit=crop&w=500&q=80",
+    "codigo": "resis1/2w",
+    "impuestos": 15
+  },
+  {
+    "nombre": "2n2222",
+    "precio": 0.15,
+    "imagen": "https://acdn-us.mitiendanube.com/stores/003/916/473/products/imagen_2023-11-07_133038093-62ec2d2835f152a0dd169938903813771-e8152810beb61bfe8916993891386112-640-0.png",
+    "codigo": "2n2222",
+    "impuestos": 15
+  },
+  {
+    "nombre": "2n3804",
+    "precio": 0.2,
+    "imagen": "",
+    "codigo": "2n3804",
+    "impuestos": 15
+  }
 ]
